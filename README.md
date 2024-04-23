@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tironflap
 - 👀 I’m interested in wriring code
-- 🌱 I’m currently learning roblox
+- 🌱 I’m currently learning python
 - 📫 How to reach me: chat me in discord 
 - 😄 Pronouns: яблоко
 - ⚡ Fun fact: idk
