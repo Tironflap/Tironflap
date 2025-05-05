@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @Tironflap
-- 👀 I’m interested in wriring code
-- 🌱 I’m currently learning js
-- 📫 How to reach me: chat me in telegram
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: i like coding
+
+<h1 align="center">Hi! My name is Tiron</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">I'm small dev from Russia🇷🇺</h3>
 
 <!---
 Tironflap/Tironflap is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
