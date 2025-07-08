@@ -1,6 +1,6 @@
 # Hi! My name is Tiron.
 ### I'm small dev from Russia.
-###Curently i'm learning js
+### Curently i'm learning js
 
 
 
