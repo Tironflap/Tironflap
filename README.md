@@ -1,15 +1,15 @@
-{
-    "data":[
-        "Nickname" : "Tiron"
-        "Skills":[
-            "Python",
-            "Javascript"
-            "Docker"
-            "Json"
-        ]
-        "Hire": "$2"
-    ]
-}
+-{
+    -"data":[
+        -"Nickname" : "Tiron"
+        -"Skills":[
+            -"Python",
+            -"Javascript"
+            -"Docker"
+            -"Json"
+        -]
+        -"Hire": "$2"
+    -]
+-}
 
 
 
