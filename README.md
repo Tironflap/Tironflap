@@ -1,6 +1,16 @@
-# Hi! My name is Tiron.
-### I'm small dev from Russia.
-### Curently i'm learning js
+{
+    "data":[
+        "Nickname" : "Tiron"
+        "Skills":[
+            "Python",
+            "Javascript"
+            "Docker"
+            "Json"
+        ]
+        "Hire": "$2"
+    ]
+}
+
 
 
 
